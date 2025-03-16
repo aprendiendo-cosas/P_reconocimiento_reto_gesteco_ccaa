@@ -23,7 +23,7 @@ Esta sesión implica poner en práctica la primera fase para el abordaje de reto
 
 
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
-La metodología para trabajar en esta fase conta de dos etapas diferentes. La primera implica un proceso de evocación del conocimiento ya existente sobre los retos asignados. Esto nos ayudará a colocarnos en el ámbito de la incompetencia consciente. Es decir, nos permitirá identificar qué cosas no sabemos del tema en cuestión y deberíamos saber. La segunda fase consiste en buscar información relevante sobre el problema, bien sea en forma de artículos científicos, informes, imágenes, etc.
+La metodología para trabajar en esta fase consta de dos etapas diferentes. La primera implica un proceso de evocación del conocimiento ya existente sobre los retos asignados. Esto nos ayudará a colocarnos en el ámbito de la incompetencia consciente. Es decir, nos permitirá identificar qué cosas no sabemos del tema en cuestión y deberíamos saber. La segunda fase consiste en buscar información relevante sobre el problema, bien sea en forma de artículos científicos, informes, imágenes, etc.
 
 ### Debate en grupo para reconocer y contextualizar el problema
 
