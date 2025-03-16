@@ -4,138 +4,54 @@
 > + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea que dura todo el cuatrimestre.
+> + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/imagenes/portada.jpg)
 
 
 
 ## Objetivos 
 
-Esta tarea se corresponde con la actividad a trabajar durante las prácticas de la asignatura. Consiste en trabajar con una serie de retos socioecológicos que han sido asignados a los estudiantes del curso. Cada grupo de estudiantes (en el caso de la evaluación continua) o cada estudiante individual (en el caso de la calificación discreta) tendrá que abordar el reto en cuestión que le haya tocado. La finalidad última de este trabajo es que los estudiantes se familiaricen con el concepto de sistema complejo adaptativo y con la naturaleza también compleja de los problemas que les afectan. Para abordar con éxito esta actividad entrenaremos varias competencias. De forma más específica, los objetivos de aprendizaje son:
-+ Identificar cuándo un problema se puede considerar complejo, complicado o simple. 
-+ Poner en práctica el conocimiento adquirido en otras asignaturas del grado. 
-+ Aplicar de manera práctica el concepto de "bailar" con los sistemas complejos.
-+ Mejorar el conocimiento experto sobre las cuestiones científico-técnicas del reto en cuestión.
-+ Aprender a aplicar marcos conceptuales teóricos a problemas reales.
-+ Mejorar las habilidades de trabajo en equipo.
-+ Mejorar las habilidades de creación de contenido multimedia.
-+ Mejorar las habilidades de expresión oral y escrita. 
+Esta sesión implica poner en práctica la primera fase para el abordaje de retos socioecológicos complejos. Como casi siempre que empezamos algo en la vida, la primera etapa consiste en familiarizarnos con el asunto y aprender un poco más sobre aspectos temáticos asociados al reto. Así, los objetivos de esta etapa son:
 
-Este guión contiene las instrucciones que los estudiantes individuales y los grupos deberán de seguir para completar la asignación. El contenido del guión evolucionará a lo largo de la asignatura. Se irán incorporando elementos nuevos relacionados con el método que usaremos para abordar el reto socioecológico en cuestión.
+- Comprobar que el reto socioecológico propuesto es, en efecto, un problema complejo. 
+- Identificar posibles lagunas de conocimiento científico técnico sobre el reto en cuestión.
+- Esbozar el contexto histórico y actual del problema asignado.
+- Identificar brevemente los factores políticos, económicos y ecológicos que le afectan.
+- Encontrar documentación sobre el problema asinado.
 
 
 
+## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
+La metodología para trabajar en esta fase conta de dos etapas diferentes. La primera implica un proceso de evocación del conocimiento ya existente sobre los retos asignados. Esto nos ayudará a colocarnos en el ámbito de la incompetencia consciente. Es decir, nos permitirá identificar qué cosas no sabemos del tema en cuestión y deberíamos saber. La segunda fase consiste en buscar información relevante sobre el problema, bien sea en forma de artículos científicos, informes, imágenes, etc.
 
-## Herramientas digitales a utilizar
-Los estudiantes que trabajen en grupo recibirán instrucciones más detalladas cada semana en los Teams correspondientes. En cualquier caso, propongo que usemos las siguientes herramientas para esta asignación:
+### Debate en grupo para reconocer y contextualizar el problema
+
+Durante la salida a Hornachuelos dedicamos un rato a que, en debate grupal, se hiciera un trabajo de contextualización del problema. Los grupos trataron de evaluar en qué medida el reto propuesto es o no un problema complejo. Se estudiaron aspectos como el contexto histórico, factores sociales implicados, etc. Cada equipo generó un pequeño texto que resumía los consensos alcanzados. Compartimos ese texto en público. El profesor fue dando ideas sobre cómo mejorar la aproximación. Además, se identificaron posibles carencias que tenía el grupo con relación a cuestiones científicas asociadas al reto asignado. 
 
 
-
-### Microsoft Teams
-Ya lo conocemos bien. No es la mejor herramienta del mundo, pero es la que nos ofrece la universidad. Usaremos Teams para comunicarnos entre los miembros de cada equipo. También pondremos en el equipo toda la información relevante que se vaya recopilando (bibiografía) y creando (textos, imágenes, mapas, etc.) durante la actividad. Cada equipo deberá tener un nombre con la siguiente estructura: [Letra asignada al equipo]_[nombre corto del tema].
-
-Para subir información digital al equipo basta con hacer click en la pestaña "archivos" que hay arriba a la derecha del nombre del equipo. Ahí se pueden soltar todas las carpetas y archivos que vayáis usando. Al subir archivos a esta parte, se sincronizan con la nube. Para que estos archivos también estén disponibles en el ordenador de cada miembro del equipo, basta con tener instalado OneDrive y con darle al botón "sincronizar" que aparece en la segunda barra de opciones dentro de "archivos". 
-
-Me comunicaré con vosotros a través de esta herramienta. También vosotros podéis trasladarme dudas usando esta aplicación.
+> [!TIP] 
+> *El resultado de esta estapa es un texto describiendo y contextualizando el problema. Este texto evolucionará durante el trabajo general. Así que es importante no borrar las sucesivas versiones que se vayan creando. Sugiero que creéis un documento de word en la carpeta del Teams para registrar las versiones de este documento. Indicad la fecha de creación de cada versión.*
 
 
 
-### Asistente IA
+### Búsqueda de información científico-técnica sobre el reto
 
-Es muy recomendable que cada equipo tenga un asistente IA personalizado que ayude a abordar el reto asignado. No basta con usar una IA genérica como ChatGPT o Perplexity. Es necesario incorporar al modelo de lenguaje una serie de fuentes de datos que puedan usarase como base de conocimiento específica del tema con el que estamos trabajando. Para hacer esto es posible usar los llamados GPTs de ChatGPT o también una IA llamada Google Notebook LM. La primera opción requiere tener una licencia de pago, así que, os sugiero que uséis la segunda. Para ello debéis dar los siguientes pasos:
+Los ambientólogos y ambientólogas suelen ser "expertos en generalidades". Este rasgo, que pudiera ser considerado como algo negativo, es un superpoder en un mundo lleno de expertos. Necesitamos generalistas que ayuden a ver el mundo con una mirada integradora y holística. Pero construir esta capacidad requiere mucho estudio y trabajo. Afortunadamente, la información especializada está disponible en internet. Además, hoy día, con la llegada de las IAs, esa información nos resulta más fácilmente digerible.
 
-- Acceder a esta web: https://notebooklm.google.com/ Solo tiene que hacerlo un miembro del grupo.
-- Si es la primera vez que entráis, os pedirá vuestro usuario de Gmail. Introducid los datos que pide.
-- Una vez dentro nos da la opción de crear un nuevo cuaderno (opción "crear")
-- Un cuaderno es una especie de sistema experto que se alimenta no solo de la inteligencia artificial propia de Google (Gemini), sino también del contenido de hasta 50 archivos de diferente tipo (textos en pdf y audios). Al subir la información que queramos, el sistema puede responder de manera más eficiente porque se enfoca en el contenido que le hemos dado. También es posible subir enlaces a webs, vídeos de youtube, etc. 
-- Al crear el cuaderno el sistema nos pide directamente las fuentes que vamos a usar. Podemos añadir fuentes en cualquier paso del proceso. Es decir, si ponemos en marcha el cuaderno y días después damos con otra fuente relevante, es posible subirla sin problema. 
-- Una vez subidas las fuentes, podemos empezar a conversar con la IA usando prompts bien elaborados tal y como vimos el cuatrimestre pasado en ecología. Las respuestas que da Notebook LM pueden almacenarse como notas dentro del sistema. Esto es especialmente útil para "recordar" las cuestiones que nos resultan interesantes. 
-- Cuando tengáis configurado el Notebook es importante que lo compartáis conmigo. Para ello basta con darle al botón de compartir (botón con tres puntos unidos por líneas arriba a la derecha) y poner esta dirección de correo: fjbonet@gmail.com . De esta forma yo veré cómo evoluciona y cómo usáis vuestro asistente personalizado.
+Esta etapa implica la búsqueda sistemática de información sobre el reto socioecológico asignado. Durará lo que dure el trabajo porque siempre hay información nueva que recopilar y cosas nuevas que aprender. Los miembros de cada grupo tendrán que buscar artículos científicos, informes, publicaciones de periódico, podcast de radio, etc. Todo lo que esté en sus manos para documentarse adecuadamente con relación al problema abordado. 
 
+> [!TIP] 
+> *El resultado de esta estapa es un conjunto de archivos de distinto tipo que contienen documentación relevante para nuestro trabajo. Sugiero que almacenéis esos documentos en una carpeta llamada "documentacion" dentro del OneDrive grupal. También es muy recomendable que alimentéis con estos documentos a la IA que estéis usando como asistente para este trabajo (yo recomiendo Notebook LM.*
 
-
-### Miro 
-
-Esta herramienta es, básicamente, una especie de pizarra de superficie infinita en la que se pueden representar una gran cantidad de tipos de objetos diferentes. Desde notas hasta diagramas de flujo, imágenes, etc. La versión gratuita puede descargarse [aquí](https://miro.com/signup/) aunque también se puede acceder a través del navegador. Recomiendo que cada equipo tenga un panel en Miro para ir poniendo allí ideas, esquemas o el flujo de trabajo que sigáis para abordar vuestro reto. Si os animáis a usarlo, por favor, compartidlo conmigo (fjbonet@gmail.com).
-
-
-
-## Metodología propuesta para abordar el reto 
-
-Seguiremos una metodología denominada "complex problem solving" (CPS). Esta técnica comenzó a desarrollarse en Alemania en la década de 1970. Se desarrolló como un intento de abordar problemas que no podían resolverle con aproximaciones lineales tradicionales. El CPS implica tener en cuenta la complejidad de los sistemas y la importancia de la interrelación entre sus componentes. También asume que el sistema cambia tanto su estructura como su funcionamiento en el tiempo y en el espacio. Este comportamiento no lineal se debe a la multitud de elementos del sistema que están interactuando entre sí y que generan propiedades emergentes complejas. La consecuencia de esto a escala de sistema es que hay multitud de retroalimentaciones y que la incertidumbre es muy alta en todos los procesos del sistema y del problema a abordar.
-
-En la actualidad el CPS se aplica fundamentalmente en el ámbito empresarial y de marqueting. Sin embargo, poco a poco se empieza a aplicar a cuestiones ambientales. Como se trata de un método abierto, no contiene unas etapas definidas de manera muy rígida. Además, como este es el primer curso en el que hacemos este ejercicio, no disponemos aún de un método cerrado. Aplicaremos los mismos consejos que hemos visto en clase para "baila" con los sistemas complejos. Es decir, también bailaremos con la metodología para abordar los retos asignados. 
-
-A continuación se irán mostrando las fases del trabajo que vamos completando. Por ahora verás solo una lista y una brevísima descripción de cada fase. Pero conforme vayamos avanzando, cada fase estará enlazada con un guión específico en el que se describirá con detalle lo que haremos. Cada semana aproximadamente completaremos una fase.
-
-### Reconocimiento y contextualización del problema
-Esta primera etapa implica identificar adecuadamente la naturaleza compleja del problema a abordar. Esto implica reconocer la multiplicidad de perspectivas, la ausencia de una solución única, la "movilidad" del objetivo a alcanzar y las relaciones con otros problemas y sistemas. 
-
-### Identificación de actores involucrados y de sus objetivos-necesidades
-El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
-
-### Descomposición funcional en otros problemas mas manejables
-
-Esta estapa implica tratar de descomponer el problema complejo en otros que puedan ser más sencillos de abordar. Tiene sentido, por ejemplo, identificar las necesidades científico-técnicas del problema complejo. Estas suelen ser más fácilmente abordables.
-
-### Análisis de interdependencias
-
-Conocer las relaciones de interdependencia entre actores y elementos clave del sistema complejo es fundamental para abordar los retos socioecológicos. Para hacer este análisis se pueden hacer mapas conceptuales que permitan visualizar las conexiones entre componentes sociales y ambientales. Esto permite identificar las relaciones clave y los "lugares" del sistema en los que las intervenciones pueden tener mayor impacto.
-
-### Análisis del contexto legistlativo y de gestión
-
-Esta etapa es fundamental porque nos permite conocer el contexto legislativo que afecta al reto socioecológico que estamos abordando. No se trata de hacer una descripción exhaustiva de todas las disposiciones legales que afectan a nuestro reto, sino únicamente identificar las más relevantes. 
-
-### Identificación de propiedades dinámicas y ciclos adaptativos
-
-Esta fase implica explicar el dinamismo del reto socioecológico en cuestión. Se trata de analizar las propiedades dinámicas del mismo evaluando en qué medida los elementos estructurales y funcionales identificados anteriormente han ido cambiando a lo largo del tiempo. Aquí es importante tener en cuenta el concepto de anarquía que ya vimos en clase. Este análisis nos dará información clave para identificar posibles escenarios de futuro para el sistema.
-
-### Desarrollo y evaluación de escenarios plausibles
-
-El dinamismo anterior y la relación con el cambio global se pueden plasmar en la construcción de distintos escenarios que nos ayuden a imaginar futuros posibles para el sistema analizado. Estos escenarios se harán realidad o no en función de las condiciones de contexto (legislación, condiciones internas, etc.) y de las actuaciones realizadas.
-
-### Propuestas para lograr el objetivo deseado
-
-Tras identificar el o los escenarios que se consideran más plausibles, se definirán actuaciones que permitan lograr el objetivo en cuestión. Estas actuaciones deberán tener en cuenta cuestiones científico-técnicas (qué tipo de acciones realizar) y de goberanza (qué actor y a qué escala se realizan las actuaciones)
-
-
-
-
-
-
-
-## Forma de entrega
-
-Esta sección se concretará más en el futuro. Por ahora debes saber lo siguiente:
-
-- Cada grupo o individuo deberá entregar un producto tangible en el que se muestren resultados relacionados con los pasos descritos en las secciones anteriores. La forma de ese producto queda a vuestra elección. Por ejemplo, puede ser un texto, una web, un vídeo, un juego de mesa. Lo importante es que el producto presentado se alinee con los objetivos de la tarea y recoja elementos de las fases anteriormente descritas.
-- Además, los grupos tendrán que hacer una presentación oral de sus resultados. Eso se hará en una de las dos siguientes modalidades:
-  - Organizaremos una jornada en el aulario de Rabanales en la que cada grupo presentará sus resultados a las personas que vayan pasando por allí. Pondremos mesas y pantallas para que los estudiantes hagan la presentación de su proyecto. Cada asistente realizará una valoración del trabajo realizado. Estoy trabajando para que los ganadores tengan un premio.
-  - También organizaremos una o dos jornadas con institutos de Córdoba para que los grupos presenten sus trabajos allí.
-
-
-
-<!-- Esto no se verá al renderizar -->
-
-## Criterios de calificación (rúbrica)
-
-Esta sección se concretará más en el futuro. Por ahora debes de saber lo siguiente:
-
-- Para los grupos se tendrá en cuenta el dinamismo del trabajo en el Teams.
-- Cada miembro del equipo recibirá una calificación independiente, ponderada seguramente mediante una encuesta de autoevaluación.
-
-
-
-<!-- Fin del comentario -->
 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
