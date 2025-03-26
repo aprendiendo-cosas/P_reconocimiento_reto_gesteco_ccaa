@@ -18,7 +18,7 @@ Esta sesión implica poner en práctica la primera fase para el abordaje de reto
 - Identificar posibles lagunas de conocimiento científico técnico sobre el reto en cuestión.
 - Esbozar el contexto histórico y actual del problema asignado.
 - Identificar brevemente los factores políticos, económicos y ecológicos que le afectan.
-- Encontrar documentación sobre el problema asinado.
+- Encontrar documentación sobre el problema asignado.
 
 
 
