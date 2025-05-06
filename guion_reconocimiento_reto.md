@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2024_2025/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2024-2025/imagenes/portada.jpg)
 
 
 
@@ -48,7 +48,7 @@ Esta etapa implica la búsqueda sistemática de información sobre el reto socio
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
